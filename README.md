@@ -1,14 +1,14 @@
 <h1 align="center">Salut 👋, je m'appelle Simon XIONG</h1>
-- Mon tout premier projet juste avec du code HTML, CSS et Javascript [Mon-tout-premier-projet](https://github. com/xsims77/Mon-tout-premier-projet.git)
+- Mon tout premier projet juste avec du code HTML, CSS et Javascript [Mon-tout-premier-projet](https://github. com/xsims77/Mon-tout-premier-projet)
 
-- Mon 1er site en PHP en architecture MVC [monBonCoin](https://github.com/xsims77/monBonCoin.git)
+- Mon 1er site en PHP en architecture MVC [monBonCoin](https://github.com/xsims77/monBonCoin)
 
-- Blog en Symfony6 [symfony_jean_dupont_blog](https ://github.com/xsims77/symfony_jean_dupont_blog.git)
+- Blog en Symfony6 [symfony_jean_dupont_blog](https://github .com/xsims77/symfony_jean_dupont_blog)
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/ dans/simon xiong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="simon xiong" height="30" width="40" /></a>
-<a href="https://discord.gg/sims3043" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sims3043 " height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simon xiong" cible ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt .svg" alt="simon xiong" height="30" width="40" /></a>
+<a href="https://discord.gg/sims3043" target="blank"><img align= "centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sims3043" hauteur="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
